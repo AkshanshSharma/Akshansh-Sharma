@@ -18,11 +18,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/_akki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_akki" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/akshansh sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="akshansh sharma" height="30" width="40" /></a>
+<a href="https://twitter.com/Akkisharma9868" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="twitter.com" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/akshansh-sharma-b93884211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com" height="30" width="40" /></a>
 <a href="https://instagram.com/akshansh___sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshansh___sharma" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/as2525" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="as2525" height="30" width="40" /></a>
-<a href="https://discord.gg/1446" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="1446" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/as2525" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank.com" height="30" width="40" /></a>
+<a href="https://discord.gg/#1446" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#1446" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
