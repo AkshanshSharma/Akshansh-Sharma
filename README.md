@@ -4,17 +4,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akshanshsharma&label=Profile%20views&color=0e75b6&style=flat" alt="akshanshsharma" /> </p>
 <img align="right" alt="Coding" width="350" height="125" src="https://cdn.dribbble.com/users/1068771/screenshots/14247776/downloads/3.jpg">
 
-- 🔭 I’m currently working on **Blender 3D, figma**
+- 🔭 I’m currently working on **Design Thinking**
 
-- 🌱 I’m currently learning **Blender and trying to do UI/UX**
+- 🌱 I’m currently Doing **UI/UX designing**
 
 - 👨‍💻Pursuing my B.tech in CSE from **SRM UNIVERSITY**
 
 - 👯 I’m looking to collaborate on [https://www.linkedin.com/in/akshansh-sharma-b93884211/](https://www.linkedin.com/in/akshansh-sharma-b93884211/)
 
-- 📫 How to reach me **akshansh102@gmail.com**
+- 📫 How to reach me **akki101102@gmail.com**
 
-- ⚡ Fun fact **You still exist!!! X)**
+- ⚡ Fun fact **You're beautiful!!! X)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
