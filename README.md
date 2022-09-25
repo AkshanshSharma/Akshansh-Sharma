@@ -22,7 +22,7 @@
 <a href="https://www.linkedin.com/in/akshansh-sharma-b93884211/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com" height="30" width="40" /></a>
 <a href="https://instagram.com/akshansh___sharma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="akshansh___sharma" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/as2525" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank.com" height="30" width="40" /></a>
-<a href="https://discord.gg/#1446" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#1446" height="30" width="40" /></a> <a href="https://www.behance.net/akki_" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/behance.png" width="40" height="40"/> </a>
+<a href="https://discord.gg/#1446" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="#1446" height="30" width="40" /></a> <a href="https://www.behance.net/akki_" target="_blank" rel="noreferrer"> <img src="https://img.icons8.com/color/344/behance.png" width="30" height="40"/> </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
