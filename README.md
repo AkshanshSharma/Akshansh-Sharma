@@ -6,9 +6,9 @@
 
 - 🔭 I’m currently working on **Design Thinking**
 
-- 🌱 I’m currently Doing **UI/UX designing**
+- 🌱 I’m currently working as an **UI/UX Designer**
 
-- 👨‍💻Pursuing my B.tech in CSE from **SRM UNIVERSITY**
+- 👨‍💻Completed my B.tech in CSE from **SRM UNIVERSITY**
 
 - 👯 I’m looking to collaborate on [https://www.linkedin.com/in/akshansh-sharma-b93884211/](https://www.linkedin.com/in/akshansh-sharma-b93884211/)
 
